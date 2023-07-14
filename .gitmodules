@@ -1,3 +1,4 @@
 [submodule "PaperMod"]
     path = themes/PaperMod
+    url = themes/PaperMod
     branch = master
